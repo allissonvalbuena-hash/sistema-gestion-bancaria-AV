@@ -1,0 +1,57 @@
+[
+  {
+    "id": "credito-vivienda",
+    "nombre": "Crédito de vivienda",
+    "descripcion": "financiación para adquirir o mejorar tu vivienda",
+    "detalles": "Financiamos hasta el 80% del valor de tu vivienda nueva o usada con plazos de hasta 240 meses y tasas preferenciales fijas.",
+    "categoria": "Crédito",
+    "icono": "Home",
+    "tasaSugerida": 1.25,
+    "plazoMaximo": 240,
+    "montoMinimo": 20000000
+  },
+  {
+    "id": "credito-libre-inversion",
+    "nombre": "Crédito de libre inversión",
+    "descripcion": "crédito para diferentes necesidades personales",
+    "detalles": "Obtén liquidez inmediata para proyectos personales, viajes, estudios o consolidación de deudas con desembolso ágil.",
+    "categoria": "Crédito",
+    "icono": "Banknote",
+    "tasaSugerida": 1.85,
+    "plazoMaximo": 60,
+    "montoMinimo": 1000000
+  },
+  {
+    "id": "credito-vehiculo",
+    "nombre": "Crédito de vehículo",
+    "descripcion": "financiación para comprar el vehículo que necesitas",
+    "detalles": "Financiación hasta del 90% para vehículos nuevos o usados de servicio particular, con plazos de hasta 72 meses.",
+    "categoria": "Crédito",
+    "icono": "Car",
+    "tasaSugerida": 1.45,
+    "plazoMaximo": 72,
+    "montoMinimo": 10000000
+  },
+  {
+    "id": "cdt",
+    "nombre": "CDT",
+    "descripcion": "Invierte tu dinero y obtén rentabilidad durante un tiempo determinado.",
+    "detalles": "Certificado de Depósito a Término con tasas de interés altamente rentables, seguridad garantizada y plazos desde 30 hasta 360 días o más.",
+    "categoria": "Inversión",
+    "icono": "TrendingUp",
+    "tasaSugerida": 10.5,
+    "plazoMaximo": 36,
+    "montoMinimo": 500000
+  },
+  {
+    "id": "cuenta-ahorros",
+    "nombre": "Cuenta de ahorros",
+    "descripcion": "guarda tu dinero y hazlo crecer de forma segura",
+    "detalles": "Disponibilidad inmediata de tu dinero con tarjeta débito sin cuota de manejo durante el primer año y rendimientos diarios sobre tu saldo.",
+    "categoria": "Ahorro",
+    "icono": "PiggyBank",
+    "tasaSugerida": 2.5,
+    "plazoMaximo": 0,
+    "montoMinimo": 0
+  }
+]
